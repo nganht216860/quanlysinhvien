@@ -1,0 +1,12 @@
+
+
+===========Chuong trinh quan li sinh vien Dai hoc Bach Khoa Ha Noi===========
+Date of Examination: 23/07/2023
+Student Name: Hoang Thi Ngan
+Student Number: 20216860
+1. Hien thi danh sach
+2. Bo sung vao danh sach
+3. Cap nhat ban ghi
+4. Xoa ban ghi
+5. Truy van mot so thong tin
+6. Thoat chuong trinh
